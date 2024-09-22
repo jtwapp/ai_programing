@@ -29,7 +29,7 @@ plt.subplot(grid[1:, 2]).imshow(Z)
 ```
 # 결과
 <p align="left">
- <img src = "3week_report1.jpg.jpg">
+ <img src = "3week_report.1jpg.jpg">
 </p>
 
 ```python
@@ -58,5 +58,5 @@ plt.subplot(grid[1, 2]).imshow(Z)
 ```
 # 결과
 <p align="left">
- <img src = "3week_report2.jpg.jpg">
+ <img src = "3week_report.2jpg.jpg">
 </p>
