@@ -14,6 +14,7 @@ print(result)
 <p align="left">
  <img src = "3week_report.1jpg.jpg">
 </p>
+
 ```python
 # 과제2
 import numpy as np
