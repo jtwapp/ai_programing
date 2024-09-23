@@ -12,7 +12,7 @@ print(result)
 ```
 # 결과
 <p align="left">
- <img src = "3week_report.1jpg.jpg">
+ <img src = "4week_report.1.jpg">
 </p>
 
 ```python
@@ -28,5 +28,5 @@ print(arr)
 ```
 # 결과
 <p align="left">
- <img src = "3week_report.1jpg.jpg">
+ <img src = "4week_report.1.jpg">
 </p>
