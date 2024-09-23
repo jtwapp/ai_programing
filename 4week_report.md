@@ -28,5 +28,5 @@ print(arr)
 ```
 # 결과
 <p align="left">
- <img src = "4week_report.1.jpg">
+ <img src = "4week_report.2.jpg">
 </p>
