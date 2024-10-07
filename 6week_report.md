@@ -16,9 +16,7 @@ print(new_df)
 </p>
 
 ```python
-
-```python
-# 과제1
+# 과제2
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
