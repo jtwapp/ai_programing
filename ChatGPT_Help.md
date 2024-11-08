@@ -12,4 +12,10 @@
  <img src = "ChatGPT6.jpg">
  <img src = "ChatGPT7.jpg">
  <img src = "ChatGPT8.jpg">
+ <img src = "ChatGPT9.jpg">
+ <img src = "ChatGPT10.jpg">
+ <img src = "ChatGPT11.jpg">
+ <img src = "ChatGPT12.jpg">
+ <img src = "ChatGPT13.jpg">
+ <img src = "ChatGPT14.jpg">
 </p>
