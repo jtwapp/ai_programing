@@ -41,7 +41,7 @@ print('예측값 =', pred)
 print('실제값 =', test_labels[:25])
 ```
 
-# MaxPlooling2D ((3,3), strides=2) 로 변경
+# 결과
 <p align="left">
  <img src = "week12_result1.jpg">
 </p>
